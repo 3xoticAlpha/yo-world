@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#I copied it from akhilnarang.......
 from datetime import datetime
 
 curDay=datetime.now().weekday()
